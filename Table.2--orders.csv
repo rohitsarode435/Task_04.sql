@@ -1,0 +1,41 @@
+order_id,customer_id,order_date,order_amount,delivery_city,payment_mode
+101,1,10-01-2023,1500,Mumbai,Credit Card
+102,2,14-02-2023,2500,Delhi,Debit Card
+103,3,21-12-2022,1200,Bengaluru,Cash
+104,4,30-03-2023,1800,Kolkata,UPI
+105,1,20-11-2022,2000,Mumbai,Net Banking
+106,6,12-04-2023,3500,Pune,Credit Card
+107,7,15-10-2022,2700,Hyderabad,Debit Card
+108,8,22-06-2023,2200,Chennai,UPI
+109,9,08-08-2022,1400,Ahmedabad,Credit Card
+110,10,19-05-2023,1900,Lucknow,Cash
+111,11,21-09-2022,3000,Bhopal,Credit Card
+112,12,28-02-2023,2400,Patna,Net Banking
+113,13,12-03-2023,2600,Thane,Debit Card
+114,14,05-07-2022,1800,Gurgaon,UPI
+115,15,18-04-2023,2300,Nagpur,Credit Card
+116,16,23-06-2021,1600,Surat,Net Banking
+117,17,01-02-2023,2900,Kanpur,Cash
+118,18,17-12-2022,2100,Coimbatore,Debit Card
+119,19,25-08-2022,1200,Indore,UPI
+120,20,09-01-2023,4000,Vadodara,Credit Card
+121,21,02-11-2022,3100,Noida,Debit Card
+122,22,24-04-2023,3400,Varanasi,Credit Card
+123,23,13-10-2021,2900,Mysuru,UPI
+124,24,29-09-2022,2400,Jodhpur,Net Banking
+125,25,20-06-2023,2200,Ranchi,Credit Card
+126,26,09-05-2021,1700,Raipur,UPI
+127,27,18-03-2022,1800,Ghaziabad,Cash
+128,28,14-07-2023,2800,Aurangabad,Net Banking
+129,29,23-12-2022,3500,Nashik,Credit Card
+130,30,22-05-2023,2100,Faridabad,Debit Card
+131,31,19-11-2022,3300,Rajkot,UPI
+132,32,06-12-2021,1500,Kochi,Net Banking
+133,33,15-04-2023,2300,Gwalior,Credit Card
+134,34,29-06-2022,2700,Bhubaneshwar,Debit Card
+135,35,05-02-2023,3000,Ludhiana,UPI
+136,36,07-07-2022,2600,Madurai,Net Banking
+137,37,31-03-2023,1900,Agra,Credit Card
+138,38,17-08-2021,1600,Vellore,Debit Card
+139,39,01-09-2022,3200,Dehradun,UPI
+140,40,25-06-2023,2500,Amritsar,Net Banking
