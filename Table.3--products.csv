@@ -1,0 +1,21 @@
+product_id,product_name,category,price,stock_quantity,supplier_name,supplier_city,supply_date
+1,Laptop,Electronics,45000,50,Tata Electronics,Mumbai,1-5-2023
+2,Smartphone,Electronics,15000,120,Bajaj Tech,Bengaluru,3-15-2023
+3,Refrigerator,Home Appliances,30000,30,Whirlpool India,Delhi,5-10-2023
+4,Washing Machine,Home Appliances,25000,20,LG Electronics,Chennai,2-22-2023
+5,Microwave Oven,Kitchen,10000,60,Samsung India,Kolkata,4-1-2023
+6,Air Conditioner,Electronics,35000,25,Voltas Ltd,Ahmedabad,12-25-2022
+7,Mixer Grinder,Kitchen,3000,150,Preethi Appliances,Pune,6-18-2023
+8,Television,Electronics,40000,40,Sony India,Mumbai,1-30-2023
+9,Water Purifier,Home Appliances,8000,70,Kent RO Systems,Lucknow,11-14-2022
+10,Gas Stove,Kitchen,5000,100,Butterfly Appliances,Jaipur,7-12-2023
+11,Bluetooth Speaker,Electronics,3000,80,Bose India,Hyderabad,2-27-2023
+12,Fitness Tracker,Wearable Tech,5000,200,Fitbit India,Bengaluru,3-17-2023
+13,Smartwatch,Wearable Tech,12000,180,Xiaomi India,Delhi,6-5-2023
+14,DSLR Camera,Electronics,55000,30,Nikon India,Mumbai,9-8-2022
+15,Gaming Console,Electronics,35000,50,Microsoft India,Pune,4-10-2023
+16,Electric Kettle,Kitchen,2000,160,Philips India,Chennai,8-25-2022
+17,Vacuum Cleaner,Home Appliances,7000,45,Eureka Forbes,Hyderabad,7-1-2023
+18,Electric Iron,Home Appliances,1500,200,Bajaj Electricals,Kolkata,5-25-2023
+19,Induction Cooktop,Kitchen,3500,140,Pigeon India,Bengaluru,1-20-2023
+20,LED Bulbs,Home Appliances,250,500,Havells India,Ahmedabad,10-15-2022
